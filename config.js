@@ -51,8 +51,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/l4c1f2r' //Link Instagrammu
-global.sgh = 'https://github.com/Lucife-Putra' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
+global.sgh = 'https://github.com/naufalmuflih' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/FR1KfETcQCayiabos8Ff'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
@@ -62,16 +62,16 @@ global.ppulsa = '083863728401' //Nomor SimCard Yang Kamu Pake
 global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727376' //Nomor Bot
-global.nomorown = '6283863727401' //Nomor Owner
-global.namebot = 'ᚯӃᶱᶮᶽᶲメ฿Ø₮™' //Nama Bot
-global.nameown = '༄ᶜputra☆࿐' // Nama Owner
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401'
+global.nomorbot = '62858087110005' //Nomor Bot
+global.nomorown = '6285704347376' //Nomor Owner
+global.namebot = 'Wa_Botz' //Nama Bot
+global.nameown = 'Naufal Muflih' // Nama Owner
+global.wame = 'https://api.whatsapp.com/send?phone=+6285704347376'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283863727401', '❦ ༄ᶜᴋputra☆࿐ 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285704377376', 'Naufal Muflih', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -138,10 +138,10 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᚯӃᶱᶮᶽᶲメ汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᚯӃᶱᶮᶽᶲメ฿Ø₮™˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᚯӃᶱᶮᶽᶲメ฿Ø₮™'
-global.namedoc = 'ᚯӃᶱᶮᶽᶲメ' //Main Name Menu Document
+global.wm = '                「 Wa_Botz  」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰WA_Botz ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ WA_BOTZ'
+global.namedoc = 'WA_BOTZ' //Main Name Menu Document
 global.botdate = `⫹⫺ Day's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
 global.titlebot = '🎋 ┊ ᚯӃᶱᶮᶽᶲ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
